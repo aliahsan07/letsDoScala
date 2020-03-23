@@ -1,0 +1,51 @@
+[0m[[0m[0mdebug[0m] [0m[0mFull compilation, no sources in previous analysis.[0m
+[0m[[0m[0mdebug[0m] [0m[0mAll sources are invalidated.[0m
+[0m[[0m[0mdebug[0m] [0m[0mRecompiling all 1 sources: invalidated sources (1) exceeded 50.0% of all sources[0m
+[0m[[0m[0minfo[0m] [0m[0mCompiling 1 Scala source to /Users/aliahsan/Documents/Learning Scala/Coursera/example/target/scala-2.13/classes ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mGetting org.scala-sbt:compiler-bridge_2.13:1.2.5:compile for Scala 2.13.0[0m
+[0m[[0m[0minfo[0m] [0m[0mNon-compiled module 'compiler-bridge_2.13' for Scala 2.13.0. Compiling...[0m
+[0m[[0m[0mdebug[0m] [0m[0mCreating plain compiler interface for 2.13.0.[0m
+[0m[[0m[0mdebug[0m] [0m[0m  > Arguments: [0m
+[0m[[0m[0mdebug[0m] [0m[0m	-nowarn[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-d[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/var/folders/9b/78bhkqjd2m121nvh7wbc3sp40000gn/T/sbt_ad874378[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-bootclasspath[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/Library/Java/JavaVirtualMachines/adoptopenjdk-8.jdk/Contents/Home/jre/lib/resources.jar:/Library/Java/JavaVirtualMachines/adoptopenjdk-8.jdk/Contents/Home/jre/lib/rt.jar:/Library/Java/JavaVirtualMachines/adoptopenjdk-8.jdk/Contents/Home/jre/lib/sunrsasign.jar:/Library/Java/JavaVirtualMachines/adoptopenjdk-8.jdk/Contents/Home/jre/lib/jsse.jar:/Library/Java/JavaVirtualMachines/adoptopenjdk-8.jdk/Contents/Home/jre/lib/jce.jar:/Library/Java/JavaVirtualMachines/adoptopenjdk-8.jdk/Contents/Home/jre/lib/charsets.jar:/Library/Java/JavaVirtualMachines/adoptopenjdk-8.jdk/Contents/Home/jre/lib/jfr.jar:/Library/Java/JavaVirtualMachines/adoptopenjdk-8.jdk/Contents/Home/jre/classes:/Users/aliahsan/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.13.0/scala-library-2.13.0.jar[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-classpath[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/var/folders/9b/78bhkqjd2m121nvh7wbc3sp40000gn/T/sbt_e85f958e/jars/org.scala-sbt/compiler-interface/compiler-interface-1.2.5.jar:/var/folders/9b/78bhkqjd2m121nvh7wbc3sp40000gn/T/sbt_e85f958e/jars/org.scala-sbt/util-interface/util-interface-1.2.2.jar:/var/folders/9b/78bhkqjd2m121nvh7wbc3sp40000gn/T/sbt_e85f958e/srcs/org.scala-sbt/compiler-bridge_2.13/compiler-bridge_2.13-1.2.5-sources.jar:/Users/aliahsan/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-compiler/2.13.0/scala-compiler-2.13.0.jar:/Users/aliahsan/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-reflect/2.13.0/scala-reflect-2.13.0.jar:/Users/aliahsan/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/jline/jline/2.14.6/jline-2.14.6.jar[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/var/folders/9b/78bhkqjd2m121nvh7wbc3sp40000gn/T/sbt_36c85fab/xsbt/API.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/var/folders/9b/78bhkqjd2m121nvh7wbc3sp40000gn/T/sbt_36c85fab/xsbt/Analyzer.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/var/folders/9b/78bhkqjd2m121nvh7wbc3sp40000gn/T/sbt_36c85fab/xsbt/CallbackGlobal.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/var/folders/9b/78bhkqjd2m121nvh7wbc3sp40000gn/T/sbt_36c85fab/xsbt/ClassName.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/var/folders/9b/78bhkqjd2m121nvh7wbc3sp40000gn/T/sbt_36c85fab/xsbt/Command.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/var/folders/9b/78bhkqjd2m121nvh7wbc3sp40000gn/T/sbt_36c85fab/xsbt/Compat.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/var/folders/9b/78bhkqjd2m121nvh7wbc3sp40000gn/T/sbt_36c85fab/xsbt/CompilerInterface.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/var/folders/9b/78bhkqjd2m121nvh7wbc3sp40000gn/T/sbt_36c85fab/xsbt/ConsoleInterface.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/var/folders/9b/78bhkqjd2m121nvh7wbc3sp40000gn/T/sbt_36c85fab/xsbt/DelegatingReporter.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/var/folders/9b/78bhkqjd2m121nvh7wbc3sp40000gn/T/sbt_36c85fab/xsbt/Dependency.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/var/folders/9b/78bhkqjd2m121nvh7wbc3sp40000gn/T/sbt_36c85fab/xsbt/ExtractAPI.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/var/folders/9b/78bhkqjd2m121nvh7wbc3sp40000gn/T/sbt_36c85fab/xsbt/ExtractUsedNames.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/var/folders/9b/78bhkqjd2m121nvh7wbc3sp40000gn/T/sbt_36c85fab/xsbt/GlobalHelpers.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/var/folders/9b/78bhkqjd2m121nvh7wbc3sp40000gn/T/sbt_36c85fab/xsbt/InteractiveConsoleFactory.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/var/folders/9b/78bhkqjd2m121nvh7wbc3sp40000gn/T/sbt_36c85fab/xsbt/InteractiveConsoleHelper.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/var/folders/9b/78bhkqjd2m121nvh7wbc3sp40000gn/T/sbt_36c85fab/xsbt/InteractiveConsoleInterface.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/var/folders/9b/78bhkqjd2m121nvh7wbc3sp40000gn/T/sbt_36c85fab/xsbt/InteractiveConsoleResponse.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/var/folders/9b/78bhkqjd2m121nvh7wbc3sp40000gn/T/sbt_36c85fab/xsbt/JavaUtils.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/var/folders/9b/78bhkqjd2m121nvh7wbc3sp40000gn/T/sbt_36c85fab/xsbt/LocalToNonLocalClass.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/var/folders/9b/78bhkqjd2m121nvh7wbc3sp40000gn/T/sbt_36c85fab/xsbt/LocateClassFile.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/var/folders/9b/78bhkqjd2m121nvh7wbc3sp40000gn/T/sbt_36c85fab/xsbt/Log.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/var/folders/9b/78bhkqjd2m121nvh7wbc3sp40000gn/T/sbt_36c85fab/xsbt/Message.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/var/folders/9b/78bhkqjd2m121nvh7wbc3sp40000gn/T/sbt_36c85fab/xsbt/ScaladocInterface.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m      [0m
+[0m[[0m[0minfo[0m] [0m[0m  Compilation completed in 14.971s.[0m
+[0m[[0m[0mdebug[0m] [0m[0mGetting org.scala-sbt:compiler-bridge_2.13:1.2.5:compile for Scala 2.13.0[0m
+[0m[[0m[0mdebug[0m] [0m[0m[zinc] Running cached compiler 59784f35 for Scala compiler version 2.13.0[0m
+[0m[[0m[0mdebug[0m] [0m[0m[zinc] The Scala compiler is invoked with:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-language:implicitConversions[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-deprecation[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-bootclasspath[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/Library/Java/JavaVirtualMachines/adoptopenjdk-8.jdk/Contents/Home/jre/lib/resources.jar:/Library/Java/JavaVirtualMachines/adoptopenjdk-8.jdk/Contents/Home/jre/lib/rt.jar:/Library/Java/JavaVirtualMachines/adoptopenjdk-8.jdk/Contents/Home/jre/lib/sunrsasign.jar:/Library/Java/JavaVirtualMachines/adoptopenjdk-8.jdk/Contents/Home/jre/lib/jsse.jar:/Library/Java/JavaVirtualMachines/adoptopenjdk-8.jdk/Contents/Home/jre/lib/jce.jar:/Library/Java/JavaVirtualMachines/adoptopenjdk-8.jdk/Contents/Home/jre/lib/charsets.jar:/Library/Java/JavaVirtualMachines/adoptopenjdk-8.jdk/Contents/Home/jre/lib/jfr.jar:/Library/Java/JavaVirtualMachines/adoptopenjdk-8.jdk/Contents/Home/jre/classes:/Users/aliahsan/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.13.0/scala-library-2.13.0.jar[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-classpath[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/Users/aliahsan/Documents/Learning Scala/Coursera/example/target/scala-2.13/classes[0m
+[0m[[0m[0mdebug[0m] [0m[0mScala compilation took 16.396980029 s[0m
+[0m[[0m[0minfo[0m] [0m[0mDone compiling.[0m
